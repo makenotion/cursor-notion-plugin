@@ -20,8 +20,8 @@ Includes high-quality skills for working with Notion:
 |-------|-------------|
 | **Database designer** | Design Notion databases |
 | **Knowledge capture** | Turn conversations into reusable docs |
-| **Meeting Intelligence** | Prepare meetings and follow-ups |
-| **Research Documentation** | Research and write cited docs |
+| **Meeting intelligence** | Prepare meetings and follow-ups |
+| **Research documentation** | Research and write cited docs |
 | **Spec to implementation** | Turn specs into plans and tasks |
 | **Weekly project digest** | Summarize progress, blockers, and next steps |
 | **Build my engineering wiki** | Bring technical docs and projects together |
