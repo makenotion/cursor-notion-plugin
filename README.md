@@ -18,7 +18,7 @@ Includes high-quality skills for working with Notion:
 
 | Skill | Description |
 |-------|-------------|
-| **Database Designer** | Design Notion databases |
+| **Database designer** | Design Notion databases |
 | **Knowledge capture** | Turn conversations into reusable docs |
 | **Meeting Intelligence** | Prepare meetings and follow-ups |
 | **Research Documentation** | Research and write cited docs |
