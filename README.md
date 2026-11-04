@@ -18,10 +18,20 @@ Includes high-quality skills for working with Notion:
 
 | Skill | Description |
 |-------|-------------|
-| **Knowledge Capture** | Transform conversations into structured Notion documentation |
-| **Meeting Intelligence** | Prepare meeting materials with context and research |
-| **Research Documentation** | Search, synthesize, and document research findings |
-| **Spec to Implementation** | Turn specs into tasks with progress tracking |
+| **Database designer** | Design Notion databases |
+| **Knowledge capture** | Turn conversations into reusable docs |
+| **Meeting intelligence** | Prepare meetings and follow-ups |
+| **Research documentation** | Research and write cited docs |
+| **Spec to implementation** | Turn specs into plans and tasks |
+| **Weekly project digest** | Summarize progress, blockers, and next steps |
+| **Build my engineering wiki** | Bring technical docs and projects together |
+| **Create my team handbook** | Organize team knowledge and procedures |
+| **Organize my semester** | Keep courses, notes, and deadlines together |
+| **Plan marketing campaigns** | Organize campaigns, content, and production |
+| **Set up my project** | Create a project home with tasks and docs |
+| **Set up Notion** | Connect Notion and get started |
+
+These workflows are synced from the [Notion cookbook MCP client skills](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients), including their examples, references, and display metadata. When syncing, keep each packaged `SKILL.md` frontmatter `name` equal to its existing Cursor folder name (for example, `knowledge-capture`, without the cookbook’s `notion-` prefix), as required by [Cursor’s skill format](https://cursor.com/docs/skills#frontmatter-fields). The existing quick-action skills below remain available.
 
 ### Integrated Notion MCP Server
 
@@ -54,10 +64,18 @@ This provides tools to:
 | `tasks-build` | Build a task from a Notion page URL |
 | `tasks-plan` | Create implementation plan from a spec |
 | `tasks-explain-diff` | Generate a Notion doc explaining code changes |
-| `knowledge-capture` | Capture knowledge from conversations |
-| `meeting-intelligence` | Prepare comprehensive meeting materials |
-| `research-documentation` | Research and document topics from Notion |
-| `spec-to-implementation` | Convert specs to implementation plans |
+| `database-designer` | Design Notion databases |
+| `knowledge-capture` | Turn conversations into reusable docs |
+| `meeting-intelligence` | Prepare meetings and follow-ups |
+| `research-documentation` | Research and write cited docs |
+| `spec-to-implementation` | Turn specs into plans and tasks |
+| `weekly-project-digest` | Summarize progress, blockers, and next steps |
+| `build-my-engineering-wiki` | Bring technical docs and projects together |
+| `create-my-team-handbook` | Organize team knowledge and procedures |
+| `organize-my-semester` | Keep courses, notes, and deadlines together |
+| `plan-marketing-campaigns` | Organize campaigns, content, and production |
+| `set-up-my-project` | Create a project home with tasks and docs |
+| `setup` | Set up Notion for your agent |
 
 ---
 
@@ -114,7 +132,7 @@ Ask Cursor to search for content:
 
 ```
 cursor-notion-plugin/
-├── .cursor/
+├── .cursor-plugin/
 │   └── plugin.json              # Plugin manifest
 ├── mcp.json                     # MCP server configuration
 ├── README.md                    # This file
@@ -129,10 +147,18 @@ cursor-notion-plugin/
     ├── tasks-build/
     ├── tasks-plan/
     ├── tasks-explain-diff/
+    ├── database-designer/
     ├── knowledge-capture/
     ├── meeting-intelligence/
     ├── research-documentation/
-    └── spec-to-implementation/
+    ├── spec-to-implementation/
+    ├── weekly-project-digest/
+    ├── build-my-engineering-wiki/
+    ├── create-my-team-handbook/
+    ├── organize-my-semester/
+    ├── plan-marketing-campaigns/
+    ├── set-up-my-project/
+    └── setup/
 ```
 
 ---

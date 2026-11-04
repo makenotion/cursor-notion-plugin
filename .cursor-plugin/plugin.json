@@ -1,6 +1,6 @@
 {
   "name": "notion-workspace",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Notion Skills + Notion MCP server packaged as a Cursor plugin.",
   "author": {
     "name": "Notion Labs",
