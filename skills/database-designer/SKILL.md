@@ -1,5 +1,5 @@
 ---
-name: notion-database-designer
+name: database-designer
 description: Turns scattered notes and recurring work into useful Notion trackers for requests, content plans, or team work. Use to set up or improve a tracker, choosing its fields and views from the user's needs; ordinary record updates belong to the task's workflow.
 ---
 

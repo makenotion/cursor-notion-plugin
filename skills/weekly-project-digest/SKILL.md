@@ -1,5 +1,5 @@
 ---
-name: notion-weekly-project-digest
+name: weekly-project-digest
 description: Produces evidence-based weekly project or team updates by comparing reporting periods, tasks, decisions, and blockers in Notion. Use for recurring status digests; use spec-to-implementation for requirement-level implementation tracking.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notion-create-my-team-handbook
+name: create-my-team-handbook
 description: Create a team handbook in Notion from scattered processes, team documents, requests, and chat context. Make procedures easy to find, show who maintains them, and track related requests.
 ---
 

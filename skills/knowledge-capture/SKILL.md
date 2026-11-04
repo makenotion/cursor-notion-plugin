@@ -1,5 +1,5 @@
 ---
-name: notion-knowledge-capture
+name: knowledge-capture
 description: Captures conversations and supplied notes as Notion wiki pages, how-to guides, FAQs, decision records, or retrospectives. Use when saving or updating durable knowledge from existing context; use research-documentation when new source discovery and synthesis is the main task.
 ---
 

@@ -1,5 +1,5 @@
 ---
-name: notion-plan-marketing-campaigns
+name: plan-marketing-campaigns
 description: Organize campaign briefs, content ideas, and production work in Notion. Use when planning a marketing campaign, building a content calendar, or tracking content production.
 ---
 

@@ -31,7 +31,7 @@ Includes high-quality skills for working with Notion:
 | **Set up my project** | Create a project home with tasks and docs |
 | **Set up Notion** | Connect Notion and get started |
 
-These workflows are synced from the [Notion cookbook MCP client skills](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients), including their examples, references, and display metadata. The existing quick-action skills below remain available.
+These workflows are synced from the [Notion cookbook MCP client skills](https://github.com/makenotion/notion-cookbook/tree/main/skills/mcp-clients), including their examples, references, and display metadata. When syncing, keep each packaged `SKILL.md` frontmatter `name` equal to its existing Cursor folder name (for example, `knowledge-capture`, without the cookbook’s `notion-` prefix), as required by [Cursor’s skill format](https://cursor.com/docs/skills#frontmatter-fields). The existing quick-action skills below remain available.
 
 ### Integrated Notion MCP Server
 

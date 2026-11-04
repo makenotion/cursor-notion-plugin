@@ -1,5 +1,5 @@
 ---
-name: notion-set-up-my-project
+name: set-up-my-project
 description: Create a useful initial Notion project home with tasks, docs, and meeting notes, then work with the user to confirm the team and choose a Projects database. Use when starting or organizing a project in Notion; routine task edits, status reports, and implementing a technical spec are separate workflows.
 ---
 
